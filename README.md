@@ -1,11 +1,11 @@
 ## 🚀 Sopheak Teng
 
-Hey there, welcome to my github profile.  
+Hey there 👋! Welcome to my github profile.  
 I love to solve real-world problems with coding.
 
 ## 🌏 About Me
 📍 Phnom Penh, Cambodia  
-💻 Computer Science, Software Developer, Web Developer, Computer Vision, Machine Learning  
+💻 Computer Science, Software Developer, Web Developer, Computer Vision, Machine Learning
 
 ## 🛠️ Tech Stack & Expertise
 **💻 Programming Languages:**  
@@ -34,6 +34,10 @@ I love to solve real-world problems with coding.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
+## 📫 Let's Connect
+
+**📧 Email:** sopheakteng112@gmail.com  
+**🔗 Linkedin:** https://www.linkedin.com/in/sopheak-teng-78b0082b3  
 
 
 <!--
