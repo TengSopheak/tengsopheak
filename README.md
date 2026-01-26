@@ -4,8 +4,8 @@ Hey there 👋! Welcome to my github profile.
 I love to solve real-world problems with coding.
 
 ## 🌏 About Me
-📍 Phnom Penh, Cambodia  
-💻 Computer Science, Software Developer, Web Developer, Computer Vision, Machine Learning
+📍 Kansas, United States  
+💻 Computer Science, Artificial Intelligence (AI), Machine Learning, Deep Learning, Data Analytics
 
 ## 🛠️ Tech Stack & Expertise
 **💻 Programming Languages:**  
@@ -13,19 +13,20 @@ I love to solve real-world problems with coding.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
   
 **⚙️ Frameworks & Tools:**  
-  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow-3B71F2?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
   
 **☁️ Databases & Cloud:**  
   
@@ -36,7 +37,7 @@ I love to solve real-world problems with coding.
 
 ## 📫 Let's Connect
 
-**📧 Email:** sopheakteng112@gmail.com  
+**📧 Email:** sopheakteng14@gmail.com  
 **🔗 Linkedin:** https://www.linkedin.com/in/sopheak-teng-78b0082b3  
 
 
